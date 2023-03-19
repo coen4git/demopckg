@@ -7,7 +7,7 @@
 report_p(p, digits = 3)
 }
 \arguments{
-\item{p}{a number}
+\item{p}{a number netween 0 and 1}
 
 \item{digits}{the number of digits}
 }
