@@ -13,5 +13,7 @@ The goal of demopckg is to …
 You can install the development version of demopckg like so:
 
 ``` r
-devtools::install_github("coen4git/demopckg")
+devtools::install_github("coen4git %>% /demopckg")
 ```
+
+ok voor nu
